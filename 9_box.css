@@ -1,0 +1,14 @@
+div{
+background-color:black;
+color:red;
+border: 2px solid red;
+width: 100px;
+height: 100px;
+margin: 5vmin;
+text-align: center;
+text-decoration:none;
+border-radius: 50%;
+display: flex;
+justify-content: center;
+align-items: center;
+}
